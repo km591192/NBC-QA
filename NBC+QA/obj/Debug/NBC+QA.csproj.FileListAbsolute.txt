@@ -1,0 +1,6 @@
+D:\onu\Diplom_material\NBC+QA\NBC+QA\bin\Debug\NBC+QA.exe.config
+D:\onu\Diplom_material\NBC+QA\NBC+QA\bin\Debug\NBC+QA.exe
+D:\onu\Diplom_material\NBC+QA\NBC+QA\bin\Debug\NBC+QA.pdb
+D:\onu\Diplom_material\NBC+QA\NBC+QA\obj\Debug\NBC+QA.csprojResolveAssemblyReference.cache
+D:\onu\Diplom_material\NBC+QA\NBC+QA\obj\Debug\NBC+QA.exe
+D:\onu\Diplom_material\NBC+QA\NBC+QA\obj\Debug\NBC+QA.pdb
